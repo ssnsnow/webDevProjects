@@ -1,0 +1,15 @@
+.contact-main-content {
+    padding: 30px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.contact-info {
+    margin-bottom: 30px;
+}
+@media screen and (min-width: 320px) and (max-width: 768px) {
+    .contact-main-content {
+        padding: 15px 15px 15px 15px;
+        margin-top: 0;
+    }
+}

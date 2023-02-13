@@ -1,0 +1,12 @@
+.timeline-list {
+    line-height: 1.3em;
+}
+.timeline-item {
+    margin-bottom: 15px;
+}
+.timeline-content {
+    font-weight: bold;
+    color: #F2921D;
+    font-style: inherit;
+    font-size: 15px;
+}
